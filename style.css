@@ -1,0 +1,40 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+}
+.hello{
+	background-color:black;
+}
+section.page1.tps-section.tps-inview {
+    overflow: hidden;
+}
+
+section.page2.tps-section {
+    overflow: hidden;
+}
+
+section.page3.tps-section {
+    overflow: hidden;
+}
+img.logo {
+    height: 50px;
+}
+.navbac{
+	
+	width:100%;
+	background-image:url('img/1.jpg');
+	background-size:cover;
+    background-position:center;
+	
+}
+.nav_text{
+	font-size:18px;
+	font-weight:500;
+}
+.shado{
+	    text-shadow: 1px 1px #0909ef;
+}
+.pagecolor{
+	background-color:black;
+}
